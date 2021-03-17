@@ -1,0 +1,1 @@
+<center>Copyright &copy; <?=date("Y");?></center>
